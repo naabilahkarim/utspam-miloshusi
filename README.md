@@ -141,6 +141,8 @@ object FoodData {
     )
 }
 
+---
+
 Splash Screen
       ↓
 Sign Up / Login
@@ -156,10 +158,8 @@ Selesai
 👩‍💻 Developer
 
 Nama: Nabilah Nuril Zahra M. Karim
-
 GitHub: https://github.com/naabilahkarim
-
-Mata Kuliah: Pemrograman Aplikasi Mobile
+Mata Kuliah: Pengembangan Aplikasi Mobile
 
 📄 Status
 
