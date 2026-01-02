@@ -118,31 +118,9 @@ app/
 │
 └── AndroidManifest.xml
 
-
 ---
 
-## 📦 Contoh Kode
-
-### FoodItem.kt
-```kotlin
-data class FoodItem(
-    val id: Int,
-    val name: String,
-    val description: String,
-    val price: String,
-    val imageRes: Int
-)
-
-object FoodData {
-    val foodList = listOf(
-        FoodItem(1, "Tamago Nigiri", "Nasi dengan telur dadar", "Rp 42.000", R.drawable.tamagonigiri),
-        FoodItem(2, "Shoyu Ramen", "Ramen kuah shoyu", "Rp 38.000", R.drawable.shoyuramen),
-        FoodItem(3, "Miso Ramen", "Ramen kuah miso", "Rp 40.000", R.drawable.misoramen)
-    )
-}
-
----
-
+## alur
 Splash Screen
       ↓
 Sign Up / Login
@@ -155,7 +133,9 @@ Alamat Pemesanan
       ↓
 Selesai
 
-👩‍💻 Developer
+---
+
+## 👩‍💻 Developer
 
 Nama: Nabilah Nuril Zahra M. Karim
 GitHub: https://github.com/naabilahkarim
